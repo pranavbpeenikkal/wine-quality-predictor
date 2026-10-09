@@ -3,13 +3,13 @@
 This repository contains a complete end-to-end Machine Learning pipeline to predict the quality of red wine based on its chemical properties.
 
 ## 🔗 Live Application
-**Streamlit Web App:** [Click here to view the live app](#) *(Add your Streamlit Cloud link here once deployed)*
+**Streamlit Web App:** [https://wine-quality-predictor-ualor4mfumaww3uv6bfrrc.streamlit.app]
 
 ---
 
 ## 📊 Dataset Information
 - **Name:** Wine Quality (Red) Dataset
-- **Source:** [UCI Machine Learning Repository](https://wine-quality-predictor-ualor4mfumaww3uv6bfrrc.streamlit.app/)
+- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 - **Number of Records:** 1,599 instances
 - **Features:** 11 chemical properties (e.g., fixed acidity, pH, alcohol, etc.)
 - **Target Variable:** Binary classification predicting if a wine is "good" (Quality score >= 7) or "not good" (Quality score < 7).
