@@ -9,7 +9,7 @@ This repository contains a complete end-to-end Machine Learning pipeline to pred
 
 ## 📊 Dataset Information
 - **Name:** Wine Quality (Red) Dataset
-- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality)
+- **Source:** [UCI Machine Learning Repository](https://wine-quality-predictor-ualor4mfumaww3uv6bfrrc.streamlit.app/)
 - **Number of Records:** 1,599 instances
 - **Features:** 11 chemical properties (e.g., fixed acidity, pH, alcohol, etc.)
 - **Target Variable:** Binary classification predicting if a wine is "good" (Quality score >= 7) or "not good" (Quality score < 7).
